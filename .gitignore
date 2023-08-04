@@ -57,5 +57,5 @@ results
 
 # Executables
 *.exe
-*.out
 *.app
+a.out
