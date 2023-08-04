@@ -1,3 +1,19 @@
+# Ignore all to ignore executables with no extension
+*
+
+# Unignore all directories
+!*/
+
+# Unignore all files with extensions
+!*.*
+
+# Unignore Makefile and testing scripts
+!Makefile
+!bin/run_tests
+!bin/vd
+!bin/vde
+
+
 # Prerequisites
 *.d
 
@@ -31,6 +47,13 @@
 
 # Windows indexing
 thumbs.db
+
+# Result output directories
+results
+
+# tar files
+*.tar
+*.tar.gz
 
 # Executables
 *.exe
