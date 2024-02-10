@@ -1,2 +1,7 @@
-# starter-repo
-Starter repo for CSCI211
+## Lucas Roy
+
+*Spring 2024*
+
+* GitHub username: Royl12
+* Chico State username: Lroy
+
